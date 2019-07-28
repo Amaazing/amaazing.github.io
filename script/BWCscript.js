@@ -35,7 +35,7 @@ function loadStoryData(i)
   if(storyName.length > i)
   {
     $.ajax({
-      url: 'https://raw.githubusercontent.com/imFlyLikeG6/imflylikeg6.github.io/master/script/' + storyName[i] + '_story.csv',
+      url: 'script/' + storyName[i] + '_story.csv',
       dataType: 'text',
       success: function(data){
         loadStageData(data);
