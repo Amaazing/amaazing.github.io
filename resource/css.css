@@ -1,0 +1,62 @@
+#cardsContainer{
+  display: flex;
+}
+
+#userCards table{
+  text-align: left;
+}
+
+
+#cardInfo span, #stageInfo span{
+  display: block;
+}
+
+#cardInfo table, #stageInfo table {
+  margin: 0 auto;
+  /*width:100%;*/
+  text-align: center;
+  border-collapse: collapse;
+  border: 1px solid #d4d4d4;
+}
+
+#cardInfo tr, #stageInfo tr{
+  height:50px;
+}
+
+#cardInfo th, #stageInfo th {
+  border: 1px solid #515151;
+}
+
+#cardInfo td, #stageInfo td {
+  border: 1px solid #515151;
+}
+
+.empathy {
+  background: #fab9c7;
+}
+
+.passion {
+  background: #f9d0b7;
+}
+
+.stamina {
+  background: #a6efe3;
+}
+
+.wisdom {
+  background: #baddfa;
+}
+
+.member {
+  background: #e6cbe4;
+}
+
+#cardInfo em, #stageInfo em{
+  font-size:12px;
+  color:#f06179;
+}
+
+.submitButton {
+  width:100%;
+  height:40px;
+}
