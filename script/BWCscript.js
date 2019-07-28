@@ -35,7 +35,7 @@ function loadStoryData(i)
   if(storyName.length > i)
   {
     $.ajax({
-      url: 'script/' + storyName[i] + '_story.csv',
+      url: 'https://raw.githubusercontent.com/imFlyLikeG6/imflylikeg6.github.io/master/script/' + storyName[i] + '_story.csv',
       dataType: 'text',
       success: function(data){
         loadStageData(data);
@@ -177,12 +177,20 @@ function calculate(){
   var passionP = stage['passion'];
   var staminaP = stage['stamina'];
   var wisdomP = stage['wisdom'];
-  for(var i =0; i <= cardNum; i++)
+
+  totalScore += ($("#empathy0").val() * empathyP / 100);
+  totalScore += ($("#passion0").val() * passionP / 100);
+  totalScore += ($("#stamina0").val() * staminaP / 100);
+  totalScore += ($("#wisdom0").val() * wisdomP / 100);
+
+
+  // collect cards stats
+  for(var i = 1; i <= cardNum; i++)
   {
-      totalScore += Math.floor($("#empathy"+i).val() * empathyP / 100);
-      totalScore += Math.floor($("#passion"+i).val() * passionP / 100);
-      totalScore += Math.floor($("#stamina"+i).val() * staminaP / 100);
-      totalScore += Math.floor($("#wisdom"+i).val() * wisdomP / 100);
+      totalScore += (parseInt($(`#card${i} .empathy`).html()) * empathyP / 100);
+      totalScore += (parseInt($(`#card${i} .passion`).html()) * passionP / 100);
+      totalScore += (parseInt($(`#card${i} .stamina`).html()) * staminaP / 100);
+      totalScore += (parseInt($(`#card${i} .wisdom`).html()) * wisdomP / 100);
   }
 
   $("#result").empty();
