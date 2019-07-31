@@ -78,7 +78,7 @@
                     </tr>
                 </table>
 
-                <input id="addCardSubmit" type="submit">
+                <input id="addCardSubmit" type="submit" value="add card">
 
             </fieldset>
         </form>
@@ -99,6 +99,37 @@
             </table>
             <button id="clear">clear</button>
         </fieldset>
+    </div>
+
+    <div id="agencyLevels">
+        <form>
+            <fieldset>
+                <legend>Agency Level</legend>
+                <table>
+                    <tr>
+                        <td class="empathy">
+                            <label>0</label>
+                            <input type="number" min=1 max=999></td>
+                        <td class="passion">
+                            <label>0</label>
+                            <input type="number" min=1 max=999></td>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="stamina">
+                            <label>0</label>
+                            <input type="number" min=1 max=999></td>
+                        </td>
+                        <td class="wisdom">
+                            <label>0</label>
+                            <input type="number" min=1 max=999></td>
+                        </td>
+                    </tr>
+                </table>
+                <input id="agencyLevelsSubmit" type="submit" value="save levels">
+
+            </fieldset>
+        </form>
     </div>
 
     <form>
@@ -133,19 +164,23 @@
             </thead>
             <tbody>
                 <tr id="card0">
-                    <th>Group
-                        <br>(Agency)</th>
+                    <th>Agency Score
+                        <br>Level</th>
                     <td class='empathy'>
-                        <input type="number" id="empathy0">
+                        <label id="empathy0">0</label><br/>
+                        <input type="number" class="agency_level_input" min=1 max=999>
                     </td>
                     <td class='passion'>
-                        <input type="number" id="passion0">
+                        <label id="passion0">0</label><br/>
+                        <input type="number" class="agency_level_input" min=1 max=999>
                     </td>
                     <td class='stamina'>
-                        <input type="number" id="stamina0">
+                        <label id="stamina0">0</label><br/>
+                        <input type="number" class="agency_level_input" min=1 max=999>
                     </td>
                     <td class='wisdom'>
-                        <input type="number" id="wisdom0">
+                        <label id="wisdom0">0</label><br/>
+                        <input type="number" class="agency_level_input" min=1 max=999>
                     </td>
                 </tr>
                 <tr id="card1">
