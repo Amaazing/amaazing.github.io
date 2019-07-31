@@ -1,7 +1,7 @@
 {
  "4" :
-	[
-		{"rm": [
+	{
+		"rm": [
 			{"card": "Junior Detective", "primary": 4, "secondary":0},
 			{"card": "Decisive Clue", "primary": 2, "secondary":0},
 			{"card": "Sherlock Namjun", "primary": 4, "secondary":0},
@@ -16,8 +16,8 @@
 			{"card": "Hideout", "primary": 4, "secondary":0},
 			{"card": "Birthday Party", "primary": 2, "secondary":0},
 			{"card": "Brimming with Confidence", "primary": 1, "secondary":0}
-		]},
-		{"jin": [
+		],
+		"jin": [
 			{"card": "Special Service", "primary": 1, "secondary":0},
 			{"card": "Looks Working Overtime ", "primary": 1, "secondary":0},
 			{"card": "Man with a Flower ", "primary": 2, "secondary":0},
@@ -32,8 +32,8 @@
 			{"card": "A Sudden Jolt", "primary": 4, "secondary":0},
 			{"card": "Afternoon Break ", "primary": 1, "secondary":0},
 			{"card": "Man of the Year", "primary": 2, "secondary":0}
-		]},
-		{"suga": [
+		],
+		"suga": [
 			{"card": "Pure White Sugar", "primary": 2, "secondary":0},
 			{"card": "Many Worries", "primary": 4, "secondary":0},
 			{"card": "Metronome ", "primary": 1, "secondary":0},
@@ -48,8 +48,8 @@
 			{"card": "Longing", "primary": 3, "secondary":0},
 			{"card": "Pearly Smile", "primary": 4, "secondary":0},
 			{"card": "Snowflake Boy", "primary": 1, "secondary":0}
-		]},
-		{"hobi": [
+		],
+		"hobi": [
 			{"card": "Pretty Pretty", "primary": 1, "secondary":0},
 			{"card": "Sit, Wait", "primary": 2, "secondary":0},
 			{"card": "Great Work", "primary": 3, "secondary":0},
@@ -64,8 +64,8 @@
 			{"card": "First Greeting", "primary": 1, "secondary":0},
 			{"card": "Golden Afternoon", "primary": 3, "secondary":0},
 			{"card": "Dazzling Hope", "primary": 2, "secondary":0}
-		]},
-		{"jimin": [
+		],
+		"jimin": [
 			{"card": "Playlist", "primary": 1, "secondary":0},
 			{"card": "Eye Contact", "primary": 2, "secondary":0},
 			{"card": "Sweet Pâtissier", "primary": 2, "secondary":0},
@@ -80,8 +80,8 @@
 			{"card": "Shy Pâtissier", "primary": 4, "secondary":0},
 			{"card": "Lovely Pâtissier", "primary": 1, "secondary":0},
 			{"card": "Growing Pains", "primary": 4, "secondary":0}
-		]},
-		{"tae": [
+		],
+		"tae": [
 			{"card": "Shoking Visual", "primary": 1, "secondary":0},
 			{"card": "TaeTae's Laboratory", "primary": 2, "secondary":0},
 			{"card": "Brilliant Glasses", "primary": 3, "secondary":0},
@@ -96,8 +96,8 @@
 			{"card": "A Break", "primary": 1, "secondary":0},
 			{"card": "A Silent Night", "primary": 4, "secondary":0},
 			{"card": "Late-Night Feeling", "primary": 3, "secondary":0}
-		]},
-		{"jk": [
+		],
+		"jk": [
 			{"card": "Taekwon Boy", "primary": 1, "secondary":0},
 			{"card": "Black Belt", "primary": 3, "secondary":0},
 			{"card": "Ray of Sunshine", "primary": 2, "secondary":0},
@@ -112,11 +112,10 @@
 			{"card": "Head-to-Head", "primary": 1, "secondary":0},
 			{"card": "Early Spring", "primary": 3, "secondary":0},
 			{"card": "A Novelist Reading", "primary": 2, "secondary":0}
-		]}
-	],
- "5" :
-	[
-		{"rm" : [
+		]},
+	 "5" :
+	{
+		"rm" : [
 			{"card": "Private Eye",  "primary": 1, "secondary": 0},
 			{"card": "Smile", "primary": 2, "secondary": 0},
 			{"card": "Classic", "primary": 2, "secondary": 0},
@@ -126,8 +125,8 @@
 			{"card": "Romantic RM", "primary": 3, "secondary": 0},
 			{"card": "FAKE LOVE RM", "primary": 1, "secondary": 0},
 			{"card": "Red Carpet RM", "primary": 4, "secondary": 0}
-		]},
-		{"jin" : [
+		],
+		"jin" : [
 			{"card": "You're Quite Handsome", "primary": 1, "secondary": 0},
 			{"card": "Worldwide Handsome", "primary": 3, "secondary": 0},
 			{"card": "Ready for Work", "primary": 2, "secondary": 0},
@@ -137,8 +136,8 @@
 			{"card": "Romantic Jin", "primary": 3, "secondary": 0},
 			{"card": "FAKE LOVE JIN", "primary": 4, "secondary": 0},
 			{"card": "Red Carpet Jin", "primary": 4, "secondary": 0}
-		]},
-		{"suga" : [
+		],
+		"suga" : [
 			{"card": "Min MeowMeow on the Keyboard", "primary": 1, "secondary": 0},
 			{"card": "Twinkle Twinkl", "primary": 2, "secondary": 0},
 			{"card": "Adjacent Library Se", "primary": 4, "secondary": 0},
@@ -148,8 +147,8 @@
 			{"card": "Romantic Sug", "primary": 3, "secondary": 0},
 			{"card": "FAKE LOVE SUG", "primary": 2, "secondary": 0},
 			{"card": "Red Carpet Sug", "primary": 4, "secondary": 0}
-		]},
-		{"hobi" : [
+		],
+		"hobi" : [
 			{"card": "See-Through Umbrella", "primary": 1, "secondary": 0},
 			{"card": "Smiling Angel", "primary": 1, "secondary": 0},
 			{"card": "Let's Play, Friend", "primary": 2, "secondary": 0},
@@ -159,8 +158,8 @@
 			{"card": "Romantic JHOPE", "primary": 3, "secondary": 0},
 			{"card": "FAKE LOVE JHOPE", "primary": 3, "secondary": 0},
 			{"card": "Red Carpet JHOPE", "primary": 4, "secondary": 0}
-		]},
-		{"jimin" : [
+		],
+		"jimin" : [
 			{"card": "Alone in the Practice Room", "primary": 1, "secondary": 0},
 			{"card": "Dancing Mang-gae-ddeok", "primary": 2, "secondary": 0},
 			{"card": "World's Greatest Swordsman", "primary": 4, "secondary": 0},
@@ -170,8 +169,8 @@
 			{"card": "Romantic Jimin", "primary": 3, "secondary": 0},
 			{"card": "FAKE LOVE JIMIN", "primary": 4, "secondary": 0},
 			{"card": "Red Carpet Jimin", "primary": 4, "secondary": 0}
-		]},
-		{"tae" : [
+		],
+		"tae" : [
 			{"card": "Wink", "primary": 1, "secondary": 0},
 			{"card": "Wise Guy", "primary": 2, "secondary": 0},
 			{"card": "I Purple You", "primary": 2, "secondary": 0},
@@ -181,8 +180,8 @@
 			{"card": "Romantic V", "primary": 3, "secondary": 0},
 			{"card": "FAKE LOVE V", "primary": 3, "secondary": 0},
 			{"card": "Red Carpet V", "primary": 4, "secondary": 0}
-		]},
-		{"jk" : [
+		],
+		"jk" : [
 			{"card": "National Team Athlete", "primary": 1, "secondary": 0},
 			{"card": "The Name's JungKook", "primary": 1, "secondary": 0},
 			{"card": "To the Store", "primary": 2, "secondary": 0},
@@ -192,7 +191,6 @@
 			{"card": "Romantic JungKook", "primary": 3, "secondary": 0},
 			{"card": "FAKE LOVE JUNGKOOK", "primary": 2, "secondary": 0},
 			{"card": "Red Carpet JungKook", "primary": 4, "secondary": 0}
-		]}
-	]
+		]
+	}
 }
-
