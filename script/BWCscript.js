@@ -35,7 +35,7 @@ function loadStoryData(i)
   if(storyName.length > i)
   {
     $.ajax({
-      url: 'script/' + storyName[i] + '_story.csv',
+      url: 'https://raw.githubusercontent.com/imFlyLikeG6/imflylikeg6.github.io/master/script/' + storyName[i] + '_story.csv',
       dataType: 'text',
       success: function(data){
         loadStageData(data);
@@ -178,10 +178,10 @@ function calculate(){
   var staminaP = stage['stamina'];
   var wisdomP = stage['wisdom'];
 
-  totalScore += ($("#empathy0").val() * empathyP / 100);
-  totalScore += ($("#passion0").val() * passionP / 100);
-  totalScore += ($("#stamina0").val() * staminaP / 100);
-  totalScore += ($("#wisdom0").val() * wisdomP / 100);
+  totalScore += parseInt(($("#empathy0").text()) * empathyP / 100);
+  totalScore += parseInt(($("#passion0").text()) * passionP / 100);
+  totalScore += parseInt(($("#stamina0").text()) * staminaP / 100);
+  totalScore += parseInt(($("#wisdom0").text()) * wisdomP / 100);
 
 
   // collect cards stats
