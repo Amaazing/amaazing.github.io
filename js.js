@@ -242,7 +242,8 @@ function load_user_cards(){
 	function _populate_select_options(){
 		$.each($(".card_slection_add"), function(i, selection){
 			user_cards.data.forEach( (card, i) => {
-				selection.append(new Option(card['card'], i));
+				let option_name = `[${card['star']}][${card['character'].toUpperCase()}] ${card['card']}`;
+				selection.append(new Option(option_name, i));
 			});
 		});
 		
