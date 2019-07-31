@@ -1,0 +1,198 @@
+{
+ "4" :
+	[
+		{"rm": [
+			{"card": "Junior Detective", "primary": 4, "secondary":0},
+			{"card": "Decisive Clue", "primary": 2, "secondary":0},
+			{"card": "Sherlock Namjun", "primary": 4, "secondary":0},
+			{"card": "Collecting Evidence", "primary": 1, "secondary":0},
+			{"card": "Trench Coat", "primary": 1, "secondary":0},
+			{"card": "Handsome Dimple Guy", "primary": 2, "secondary":0},
+			{"card": "Kim Daily", "primary": 3, "secondary":0},
+			{"card": "Charisma", "primary": 3, "secondary":0},
+			{"card": "Found It", "primary": 4, "secondary":0},
+			{"card": "Red Thread", "primary": 4, "secondary":0},
+			{"card": "Clear Skies After Rain", "primary": 3, "secondary":0},
+			{"card": "Hideout", "primary": 4, "secondary":0},
+			{"card": "Birthday Party", "primary": 2, "secondary":0},
+			{"card": "Brimming with Confidence", "primary": 1, "secondary":0}
+		]},
+		{"jin": [
+			{"card": "Special Service", "primary": 1, "secondary":0},
+			{"card": "Looks Working Overtime ", "primary": 1, "secondary":0},
+			{"card": "Man with a Flower ", "primary": 2, "secondary":0},
+			{"card": "A Beaming Smile", "primary": 2, "secondary":0},
+			{"card": "Too Sweet", "primary": 3, "secondary":0},
+			{"card": "Broad-Shouldered", "primary": 3, "secondary":0},
+			{"card": "Checkmate ", "primary": 1, "secondary":0},
+			{"card": "Gotta Go", "primary": 2, "secondary":0},
+			{"card": "Deep in Thought ", "primary": 3, "secondary":0},
+			{"card": "Undercover ", "primary": 4, "secondary":0},
+			{"card": "Alone Time", "primary": 4, "secondary":0},
+			{"card": "A Sudden Jolt", "primary": 4, "secondary":0},
+			{"card": "Afternoon Break ", "primary": 1, "secondary":0},
+			{"card": "Man of the Year", "primary": 2, "secondary":0}
+		]},
+		{"suga": [
+			{"card": "Pure White Sugar", "primary": 2, "secondary":0},
+			{"card": "Many Worries", "primary": 4, "secondary":0},
+			{"card": "Metronome ", "primary": 1, "secondary":0},
+			{"card": "Bowtie", "primary": 3, "secondary":0},
+			{"card": "A Pianist ", "primary": 2, "secondary":0},
+			{"card": "An Autumn Letter", "primary": 3, "secondary":0},
+			{"card": "Young Master", "primary": 2, "secondary":0},
+			{"card": "Genius Composer ", "primary": 1, "secondary":0},
+			{"card": "Blonde with Beanie ", "primary": 2, "secondary":0},
+			{"card": "SUGA Rabbit", "primary": 4, "secondary":0},
+			{"card": "Sleepy Velvet ", "primary": 3, "secondary":0},
+			{"card": "Longing", "primary": 3, "secondary":0},
+			{"card": "Pearly Smile", "primary": 4, "secondary":0},
+			{"card": "Snowflake Boy", "primary": 1, "secondary":0}
+		]},
+		{"hobi": [
+			{"card": "Pretty Pretty", "primary": 1, "secondary":0},
+			{"card": "Sit, Wait", "primary": 2, "secondary":0},
+			{"card": "Great Work", "primary": 3, "secondary":0},
+			{"card": "Doctor Hope", "primary": 4, "secondary":0},
+			{"card": "Group Project", "primary": 1, "secondary":0},
+			{"card": "Eh, No Idea", "primary": 3, "secondary":0},
+			{"card": "Gentleman", "primary": 4, "secondary":0},
+			{"card": "Hobi's Great Adventure", "primary": 3, "secondary":0},
+			{"card": "Troublemaker", "primary": 1, "secondary":0},
+			{"card": "Choices and Concentration", "primary": 2, "secondary":0},
+			{"card": "Hip Hop Hope", "primary": 4, "secondary":0},
+			{"card": "First Greeting", "primary": 1, "secondary":0},
+			{"card": "Golden Afternoon", "primary": 3, "secondary":0},
+			{"card": "Dazzling Hope", "primary": 2, "secondary":0}
+		]},
+		{"jimin": [
+			{"card": "Playlist", "primary": 1, "secondary":0},
+			{"card": "Eye Contact", "primary": 2, "secondary":0},
+			{"card": "Sweet Pâtissier", "primary": 2, "secondary":0},
+			{"card": "Kendo Hopeful", "primary": 1, "secondary":0},
+			{"card": "Trivial Worries", "primary": 2, "secondary":0},
+			{"card": "So Sleepy", "primary": 3, "secondary":0},
+			{"card": "Bodyguard", "primary": 3, "secondary":0},
+			{"card": "Bright-Eyed", "primary": 4, "secondary":0},
+			{"card": "Cotton Fragance", "primary": 1, "secondary":0},
+			{"card": "Secret Recipe", "primary": 3, "secondary":0},
+			{"card": "Adorable Pâtissier", "primary": 4, "secondary":0},
+			{"card": "Shy Pâtissier", "primary": 4, "secondary":0},
+			{"card": "Lovely Pâtissier", "primary": 1, "secondary":0},
+			{"card": "Growing Pains", "primary": 4, "secondary":0}
+		]},
+		{"tae": [
+			{"card": "Shoking Visual", "primary": 1, "secondary":0},
+			{"card": "TaeTae's Laboratory", "primary": 2, "secondary":0},
+			{"card": "Brilliant Glasses", "primary": 3, "secondary":0},
+			{"card": "Cherry Blossom Opening", "primary": 2, "secondary":0},
+			{"card": "Time to Eat", "primary": 3, "secondary":0},
+			{"card": "It's Dangerous Out There", "primary": 4, "secondary":0},
+			{"card": "One Wish", "primary": 1, "secondary":0},
+			{"card": "Mr. Curiosity", "primary": 2, "secondary":0},
+			{"card": "Let's See", "primary": 3, "secondary":0},
+			{"card": "Bumper Tomato Crop", "primary": 4, "secondary":0},
+			{"card": "House Party", "primary": 2, "secondary":0},
+			{"card": "A Break", "primary": 1, "secondary":0},
+			{"card": "A Silent Night", "primary": 4, "secondary":0},
+			{"card": "Late-Night Feeling", "primary": 3, "secondary":0}
+		]},
+		{"jk": [
+			{"card": "Taekwon Boy", "primary": 1, "secondary":0},
+			{"card": "Black Belt", "primary": 3, "secondary":0},
+			{"card": "Ray of Sunshine", "primary": 2, "secondary":0},
+			{"card": "Cheerful Lad", "primary": 4, "secondary":0},
+			{"card": "Excited", "primary": 1, "secondary":0},
+			{"card": "Spaced Out", "primary": 3, "secondary":0},
+			{"card": "Red Sun", "primary": 2, "secondary":0},
+			{"card": "Naive", "primary": 1, "secondary":0},
+			{"card": "Board Game Time", "primary": 2, "secondary":0},
+			{"card": "Spring Breeze", "primary": 2, "secondary":0},
+			{"card": "5 Minutes 'Til the Match", "primary": 4, "secondary":0},
+			{"card": "Head-to-Head", "primary": 1, "secondary":0},
+			{"card": "Early Spring", "primary": 3, "secondary":0},
+			{"card": "A Novelist Reading", "primary": 2, "secondary":0}
+		]}
+	],
+ "5" :
+	[
+		{"rm" : [
+			{"card": "Private Eye",  "primary": 1, "secondary": 0},
+			{"card": "Smile", "primary": 2, "secondary": 0},
+			{"card": "Classic", "primary": 2, "secondary": 0},
+			{"card": "Professional", "primary": 1, "secondary": 0},
+			{"card": "Cherry Blossom RM", "primary": 3, "secondary": 0},
+			{"card": "Dreamland RM", "primary": 1, "secondary": 0},
+			{"card": "Romantic RM", "primary": 3, "secondary": 0},
+			{"card": "FAKE LOVE RM", "primary": 1, "secondary": 0},
+			{"card": "Red Carpet RM", "primary": 4, "secondary": 0}
+		]},
+		{"jin" : [
+			{"card": "You're Quite Handsome", "primary": 1, "secondary": 0},
+			{"card": "Worldwide Handsome", "primary": 3, "secondary": 0},
+			{"card": "Ready for Work", "primary": 2, "secondary": 0},
+			{"card": "Pleased to Meet You", "primary": 4, "secondary": 0},
+			{"card": "Cherry Blossom Jin", "primary": 4, "secondary": 0},
+			{"card": "Dreamland Jin", "primary": 2, "secondary": 0},
+			{"card": "Romantic Jin", "primary": 3, "secondary": 0},
+			{"card": "FAKE LOVE JIN", "primary": 4, "secondary": 0},
+			{"card": "Red Carpet Jin", "primary": 4, "secondary": 0}
+		]},
+		{"suga" : [
+			{"card": "Min MeowMeow on the Keyboard", "primary": 1, "secondary": 0},
+			{"card": "Twinkle Twinkl", "primary": 2, "secondary": 0},
+			{"card": "Adjacent Library Se", "primary": 4, "secondary": 0},
+			{"card": "The Decisive Momen", "primary": 3, "secondary": 0},
+			{"card": "Cherry Blossom Sug", "primary": 1, "secondary": 0},
+			{"card": "Dreamland Sug", "primary": 2, "secondary": 0},
+			{"card": "Romantic Sug", "primary": 3, "secondary": 0},
+			{"card": "FAKE LOVE SUG", "primary": 2, "secondary": 0},
+			{"card": "Red Carpet Sug", "primary": 4, "secondary": 0}
+		]},
+		{"hobi" : [
+			{"card": "See-Through Umbrella", "primary": 1, "secondary": 0},
+			{"card": "Smiling Angel", "primary": 1, "secondary": 0},
+			{"card": "Let's Play, Friend", "primary": 2, "secondary": 0},
+			{"card": "White-Coated Angel", "primary": 2, "secondary": 0},
+			{"card": "Cherry Blossom JHOPE", "primary": 3, "secondary": 0},
+			{"card": "Dreamland JHOPE", "primary": 4, "secondary": 0},
+			{"card": "Romantic JHOPE", "primary": 3, "secondary": 0},
+			{"card": "FAKE LOVE JHOPE", "primary": 3, "secondary": 0},
+			{"card": "Red Carpet JHOPE", "primary": 4, "secondary": 0}
+		]},
+		{"jimin" : [
+			{"card": "Alone in the Practice Room", "primary": 1, "secondary": 0},
+			{"card": "Dancing Mang-gae-ddeok", "primary": 2, "secondary": 0},
+			{"card": "World's Greatest Swordsman", "primary": 4, "secondary": 0},
+			{"card": "Nighttime Stroll", "primary": 3, "secondary": 0},
+			{"card": "Cherry Blossom Jimin", "primary": 2, "secondary": 0},
+			{"card": "Dreamland Jimin", "primary": 3, "secondary": 0},
+			{"card": "Romantic Jimin", "primary": 3, "secondary": 0},
+			{"card": "FAKE LOVE JIMIN", "primary": 4, "secondary": 0},
+			{"card": "Red Carpet Jimin", "primary": 4, "secondary": 0}
+		]},
+		{"tae" : [
+			{"card": "Wink", "primary": 1, "secondary": 0},
+			{"card": "Wise Guy", "primary": 2, "secondary": 0},
+			{"card": "I Purple You", "primary": 2, "secondary": 0},
+			{"card": "Orchard Boy", "primary": 3, "secondary": 0},
+			{"card": "Cherry Blossom V", "primary": 4, "secondary": 0},
+			{"card": "Dreamland V", "primary": 4, "secondary": 0},
+			{"card": "Romantic V", "primary": 3, "secondary": 0},
+			{"card": "FAKE LOVE V", "primary": 3, "secondary": 0},
+			{"card": "Red Carpet V", "primary": 4, "secondary": 0}
+		]},
+		{"jk" : [
+			{"card": "National Team Athlete", "primary": 1, "secondary": 0},
+			{"card": "The Name's JungKook", "primary": 1, "secondary": 0},
+			{"card": "To the Store", "primary": 2, "secondary": 0},
+			{"card": "Golden Maknae", "primary": 2, "secondary": 0},
+			{"card": "Cherry Blossom JungKook", "primary": 1, "secondary": 0},
+			{"card": "Dreamland JungKook", "primary": 2, "secondary": 0},
+			{"card": "Romantic JungKook", "primary": 3, "secondary": 0},
+			{"card": "FAKE LOVE JUNGKOOK", "primary": 2, "secondary": 0},
+			{"card": "Red Carpet JungKook", "primary": 4, "secondary": 0}
+		]}
+	]
+}
+
